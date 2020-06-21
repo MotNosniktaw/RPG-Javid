@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPG", "RPG\RPG.csproj", "{EA21A5EB-A4BF-4578-BAAA-9E473B56E001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA21A5EB-A4BF-4578-BAAA-9E473B56E001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA21A5EB-A4BF-4578-BAAA-9E473B56E001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA21A5EB-A4BF-4578-BAAA-9E473B56E001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA21A5EB-A4BF-4578-BAAA-9E473B56E001}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
