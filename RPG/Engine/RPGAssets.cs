@@ -20,6 +20,7 @@ namespace RPG.Engine
         private void LoadSprites()
         {
             Load("village", "./Assets/Graphics/toml_spritesheetdark.spr");
+            Load("font", "./Assets/Graphics/javidx9_nesfont8x8.spr");
         }
 
         public Sprite GetSprite(string name)

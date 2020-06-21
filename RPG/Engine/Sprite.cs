@@ -1,4 +1,6 @@
-﻿namespace RPG.Engine
+﻿using System;
+
+namespace RPG.Engine
 {
     public class Sprite
     {
